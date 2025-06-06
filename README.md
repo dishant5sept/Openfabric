@@ -1,1 +1,13 @@
 # Openfabric
+# AI Developer Challenge
+
+## Setup
+
+1. Install Python 3.10+
+2. (Optional) Create a virtual environment
+3. Run `pip install -r requirements.txt`
+
+## Running locally
+
+```bash
+./start.sh
