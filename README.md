@@ -43,8 +43,8 @@ Ensure the following tools are installed:
 
 ```bash
 # Clone your project repository (replace URL with your actual repo)
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone (https://github.com/dishant5sept/Openfabric).git
+cd <Openfabric>
 
 # (Optional) Create a virtual environment
 python3 -m venv venv
