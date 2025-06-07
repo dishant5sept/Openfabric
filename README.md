@@ -1,4 +1,4 @@
-# Openfabric AI Agent
+# Openfabric AI
 
 ## 🧠 AI Developer Challenge Submission
 
